@@ -11,5 +11,6 @@ public class TestMovable {
         System.out.println(m2);
         m2.moveRight();
         System.out.println(m2);
+        //
     }
 }
