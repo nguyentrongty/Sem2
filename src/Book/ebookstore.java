@@ -5,11 +5,11 @@ import java.util.Scanner;
 
 public class ebookstore {
     public static void main(String[] args) {
-        ex1_1();
+//        ex1_1();
 //        ex1_2();
-//        ex1_3();
+//       ex1_3();
 //        ex1_4();
-//        ex1_5();
+        ex1_5();
 //        ex2_1();
 //        ex2_2();
 //        ex2_3();

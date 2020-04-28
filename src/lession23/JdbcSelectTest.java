@@ -2,7 +2,7 @@ package lession23;
 
 import java.sql.*;
 
-public class jbcdSelectTest {
+public class JdbcSelectTest {
 
     public static void main(String[] args) {
         try (

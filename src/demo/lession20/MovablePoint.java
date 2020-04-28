@@ -1,4 +1,4 @@
-package lession20;
+package demo.lession20;
 
 public class MovablePoint implements Movable {
 
